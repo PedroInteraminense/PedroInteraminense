@@ -6,7 +6,7 @@ No meu tempo livre gosto de me exercitar, assistir filmes 🎞️ e séries 📺
 
 ### Hi there 👋
 
-My name is Pedro Paulo, I am 26 years old and I am graduated in Forest Engineering at UFRPE :deciduous_tree:. Although I always admired the technology area, my interest in this segment intensified after I started my studies in experimental statistics with R language and continuing this area with Machine Learning algorithms with Python language and Apache Spark.  
+My name is Pedro Paulo, I am 29 years old, and I have a degree in Forestry Engineering 🌳. Currently, I am pursuing a master's degree in the field of computer vision at UFRPE. :deciduous_tree:. Although I always admired the technology area, my interest in this segment intensified after I started my studies in experimental statistics with R language and continuing this area with Machine Learning algorithms with Python language and Apache Spark.  
 
 In my free time I like to exercise, watch movies 🎞️ and series 📺, read books 📚 , listen to music 🎵, eventually, I like to philosophize about life with a beer 🍺
 
